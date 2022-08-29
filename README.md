@@ -7,7 +7,7 @@ Using the flow diagram below, explain *in your own words* what is happening in `
 ![TwentyQuestionsFlow](https://user-images.githubusercontent.com/77072076/147973705-7e8a89ca-4159-49fd-beb9-8374a1f8a38c.png)
 
 ## Step 2: Coding
-Take a look at the [javadoc](http://www.cs.colostate.edu/~cs163/javadoc/lab04/package-summary.html). Edit the methods marked with `TODO student`. Make sure to test your methods as you complete each one. If you wait until the end to test your code, it makes everything so much harder to debug. 
+Take a look at the [javadoc](https://csu-compsci-cs163-4.github.io/Lab04TwentyQuestions/package-summary.html). Edit the methods marked with `TODO student`. Make sure to test your methods as you complete each one. If you wait until the end to test your code, it makes everything so much harder to debug. 
 
 ## Step 3: Playtest
 Now that you have completed the methods and tested them individuallly, it is time to playtest the game in its entirety.
